@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BUVPBIPV
 
 [Document7]
-DocumentPath=..\..\Bibliotecas_altium\ESP32\QFN48-0.4MM.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OGOBQUJH
-
-[Document8]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XILEFWOE
 
-[Document9]
+[Document8]
 DocumentPath=..\..\Bibliotecas_altium\Lm358.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNQGVDAG
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Bibliotecas_altium\jack_dc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,24 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTRQNEVX
 
-[Document11]
-DocumentPath=..\..\Bibliotecas_altium\ESP32\ESP32.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NQVUMEQO
-
-[Document12]
+[Document10]
 DocumentPath=..\..\Bibliotecas_altium\Regulador.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGPVYQFU
 
-[Document13]
+[Document11]
 DocumentPath=..\..\Bibliotecas_altium\Lm358.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTWPIMFX
 
-[Document14]
+[Document12]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
