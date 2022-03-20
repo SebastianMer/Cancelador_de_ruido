@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=ESP32-DEVKITC-32D
+Change Component Description : Designator=L2 Old Description=High Current Toroidal Inductor New Description=High Current Toroidal Inductor | 100 uH
+Change Component Description : Designator=L3 Old Description=High Current Toroidal Inductor New Description=High Current Toroidal Inductor | 100 uH
+Change Component Description : Designator=L4 Old Description=High Current Toroidal Inductor New Description=High Current Toroidal Inductor | 100 uH
