@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YVTSHSKI
 
 [Document5]
+DocumentPath=..\..\..\..\..\..\..\..\..\Downloads\Miscellaneous Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UQLOILYF
+
+[Document6]
 DocumentPath=..\..\Bibliotecas_altium\ESP32\ESP32-DEVKITC-32D\MODULE_ESP32-DEVKITC-32D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPGKFTWW
 
-[Document6]
+[Document7]
 DocumentPath=..\..\Bibliotecas_altium\LM358\Lm358.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNQGVDAG
 
-[Document7]
+[Document8]
 DocumentPath=..\..\Bibliotecas_altium\REGULADOR\Regulador.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUVPBIPV
 
-[Document8]
+[Document9]
 DocumentPath=..\..\Bibliotecas_altium\TOROIDE\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document9]
+[Document10]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XILEFWOE
 
-[Document10]
+[Document11]
+DocumentPath=..\..\..\..\..\..\SEMESTRE_3\Diseño PCB\Bibliotecas Altium\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XMPQVLOA
+
+[Document12]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDXYMGUF
 
-[Document11]
+[Document13]
 DocumentPath=..\..\Bibliotecas_altium\JACK_DC\jack_dc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTRQNEVX
 
-[Document12]
+[Document14]
 DocumentPath=..\..\Bibliotecas_altium\ESP32\ESP32-DEVKITC-32D\ESP32-DEVKITC-32D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHVEOHGX
 
-[Document13]
+[Document15]
 DocumentPath=..\..\Bibliotecas_altium\TOROIDE\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document14]
+[Document16]
 DocumentPath=..\..\Bibliotecas_altium\LM358\Lm358.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTWPIMFX
 
-[Document15]
+[Document17]
 DocumentPath=..\..\Bibliotecas_altium\REGULADOR\Regulador.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGPVYQFU
 
-[Document16]
+[Document18]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
