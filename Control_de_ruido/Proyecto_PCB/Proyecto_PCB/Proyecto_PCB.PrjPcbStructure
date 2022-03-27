@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Etapa_Control_Ruido.schdoc
+Record=TopLevelDocument|FileName=Etapa_Control_Ruido.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Etapa_Control_Ruido.schdoc|FileName=Etapa_Regulacion.SchDoc|SheetNumber= 
