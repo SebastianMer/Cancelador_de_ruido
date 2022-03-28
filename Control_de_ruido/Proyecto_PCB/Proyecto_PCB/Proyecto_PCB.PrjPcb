@@ -52,23 +52,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Etapa_Control_Ruido.schdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VELOXCVK
-
-[Document2]
 DocumentPath=Proyecto_PCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=..\..\Bibliotecas_altium\ESP32\ESP32-DEVKITC-32D\MODULE_ESP32-DEVKITC-32D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPGKFTWW
 
-[Document4]
+[Document3]
 DocumentPath=..\..\Bibliotecas_altium\LM358\Lm358.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNQGVDAG
 
-[Document5]
+[Document4]
 DocumentPath=..\..\Bibliotecas_altium\Tornillos\Tornillos.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJEHGPMW
 
-[Document6]
+[Document5]
 DocumentPath=..\..\Bibliotecas_altium\SS34\SS34.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document7]
+[Document6]
 DocumentPath=..\..\Bibliotecas_altium\CAPACITOR\Cap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBGPJEAS
 
-[Document8]
+[Document7]
 DocumentPath=..\..\Bibliotecas_altium\CAP_100uF\CAP_100uF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRDMNEKB
 
-[Document9]
+[Document8]
 DocumentPath=..\..\Bibliotecas_altium\REGULADOR\Regulador.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUVPBIPV
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Bibliotecas_altium\CAP_0.1uF\CAP_01uf.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IULHLIGM
 
-[Document11]
+[Document10]
 DocumentPath=..\..\Bibliotecas_altium\CAP_220uF\CAP_220uF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYNWLWOA
 
-[Document12]
+[Document11]
 DocumentPath=..\..\Bibliotecas_altium\TOROIDE\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document13]
+[Document12]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XILEFWOE
 
-[Document14]
+[Document13]
 DocumentPath=..\..\Bibliotecas_altium\Miscellaneous Devices\Miscellaneous Devices\Miscellaneous Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDXYMGUF
 
-[Document15]
+[Document14]
 DocumentPath=..\..\Bibliotecas_altium\ESP32\ESP32-DEVKITC-32D\ESP32-DEVKITC-32D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHVEOHGX
 
-[Document16]
+[Document15]
 DocumentPath=..\..\Bibliotecas_altium\Tornillos\Tornillos.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKUQAZIH
 
-[Document17]
+[Document16]
 DocumentPath=..\..\Bibliotecas_altium\SS34\SS34.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document18]
+[Document17]
 DocumentPath=..\..\Bibliotecas_altium\TOROIDE\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,6 +339,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
+
+[Document18]
+DocumentPath=..\..\..\..\..\Cancelador_de_ruido-main\Control_de_ruido\Bibliotecas_altium\L2\l2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
 
 [Document19]
 DocumentPath=..\..\Bibliotecas_altium\CAPACITOR\Cap.SchLib
@@ -409,6 +409,40 @@ GenerateClassCluster=0
 DocumentUniqueId=CEJZMRXA
 
 [Document22]
+DocumentPath=..\..\..\..\..\Cancelador_de_ruido-main\Control_de_ruido\Bibliotecas_altium\LM358\Lm358.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWLRDTXF
+
+[Document23]
+DocumentPath=..\..\..\..\..\Cancelador_de_ruido-main\Control_de_ruido\Bibliotecas_altium\L2\l2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document24]
 DocumentPath=..\..\Bibliotecas_altium\CAP_0.1uF\CAP_01uf.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -425,7 +459,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPDQADDI
 
-[Document23]
+[Document25]
 DocumentPath=..\..\Bibliotecas_altium\CAP_220uF\CAP_220uF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -442,7 +476,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDZTIRSW
 
-[Document24]
+[Document26]
 DocumentPath=..\..\Bibliotecas_altium\REGULADOR\Regulador.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -459,7 +493,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGPVYQFU
 
-[Document25]
+[Document27]
+DocumentPath=..\..\..\..\..\..\..\..\..\..\Public\Documents\Altium\Proyecto_PCB - Copy\Etapa_Control_Ruido.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VELOXCVK
+
+[Document28]
+DocumentPath=..\..\..\..\..\..\..\..\..\..\Public\Documents\Altium\Proyecto_PCB - Copy\Etapa_Regulacion.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZIPGFJJE
+
+[Document29]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,23 +543,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFYKLTXJ
-
-[Document26]
-DocumentPath=Etapa_Regulacion.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EIILUQIX
 
 [Configuration1]
 Name=Sources
