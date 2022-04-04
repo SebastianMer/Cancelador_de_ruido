@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=Etapa_Control_Ruido.schdoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Etapa_Control_Ruido.schdoc|FileName=Etapa_Regulacion.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=Esquematico_Bloques.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Esquematico_Bloques.SchDoc|Designator=U_Etapa_Control_Ruido|SchDesignator=U_Etapa_Control_Ruido|FileName=Etapa_Control_Ruido.schdoc|SheetNumber= |SymbolType=Normal|RawFileName=Etapa_Control_Ruido.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Esquematico_Bloques.SchDoc|FileName=Etapa_Potencia.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Esquematico_Bloques.SchDoc|FileName=Etapa_Regulacion.SchDoc|SheetNumber= 
