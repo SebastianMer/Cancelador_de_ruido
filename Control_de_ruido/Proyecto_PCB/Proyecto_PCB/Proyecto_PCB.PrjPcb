@@ -1626,6 +1626,17 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=Entrada (+)|NetColor=$00FF6E6E
+Net2=NetName=GND|NetColor=$006EFF6E
+Net3=NetName=NetC1_1|NetColor=$00FF6E6E
+Net4=NetName=NetC2_1|NetColor=$00FF6E6E
+Net5=NetName=NetD2_2|NetColor=$00FF6E6E
+Net6=NetName=NetJ1_1A|NetColor=$00FF6E6E
+Net7=NetName=NetP2_2|NetColor=$00FF6E6E
+Net8=NetName=NetR3_2|NetColor=$00FF6E6E
+Net9=NetName=Vin|NetColor=$00FF6E6E
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
