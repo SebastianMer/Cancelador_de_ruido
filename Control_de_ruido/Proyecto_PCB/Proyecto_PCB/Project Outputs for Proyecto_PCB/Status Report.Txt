@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Proyecto_PCB.PrjPcb]
+   Generated File[PCB_CANCELADOR.TXT]
+   Generated File[PCB_CANCELADOR.LDP]
+   Generated File[PCB_CANCELADOR.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:19:01 p. m. On 20/04/2022

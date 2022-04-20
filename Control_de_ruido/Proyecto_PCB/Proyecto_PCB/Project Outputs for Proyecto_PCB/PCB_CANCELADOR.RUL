@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\57318\Documents\Universidad\Semestre 8\Diseño de producto\Git_Hub\Cancelador_de_ruido\Control_de_ruido\Proyecto_PCB\Proyecto_PCB\PCB_CANCELADOR.PcbDoc
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

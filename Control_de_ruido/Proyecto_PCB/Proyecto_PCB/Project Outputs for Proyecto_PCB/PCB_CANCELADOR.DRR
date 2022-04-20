@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_CANCELADOR.PcbDoc   20/04/2022  3:19:01 p. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_CANCELADOR.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             17        PTH        12.22inch (310.28mm)
+T2      35mil (0.889mm)                                           Round             38        PTH        9.61inch (244.10mm)
+T3      41mil (1.041mm)                                           Round             38        PTH        5.50inch (139.70mm)
+T4      47mil (1.194mm)                                           Round             4         PTH        2.84inch (72.01mm)
+T5      138mil (3.505mm)                                          Round             4         PTH        10.12inch (256.92mm)
+T6      67mil (1.702mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T7      71mil (1.803mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              103
+
+Total Processing Time (hh:mm:ss) : 00:00:00
