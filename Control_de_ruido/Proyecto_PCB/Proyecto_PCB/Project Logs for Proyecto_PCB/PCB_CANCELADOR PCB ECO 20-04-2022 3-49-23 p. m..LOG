@@ -1,5 +1,0 @@
-Change Footprint: Cannot match pads with new footprint in component :LS2 Footprint:SPKR_AST-1732MR-R
-Change Footprint: Cannot match pads with new footprint in component :LS Footprint:SPKR_AST-1732MR-R
-Added Member To Class: ClassName=U_Etapa_Control_Ruido Member=Component U3 *
-Added Room: Name=U_Etapa_Control_Ruido
-Added Room: Name=U_Etapa_Regulacion
